@@ -21,16 +21,6 @@ Welcome to **Med AI**, a web-based health assistant designed to help users **tra
 
 ---
 
-## 🖥️ Screenshots
-
-| Chat Interface                              | Symptom History with Pie Chart             |
-|--------------------------------------------|--------------------------------------------|
-| ![Chat](static/screens/chat_preview.png)   | ![History](static/screens/history_pie.png) |
-
-*(Add these screenshots to your `/static/screens/` folder on GitHub)*
-
----
-
 ## 🧰 Technologies Used
 
 - **Python** – Flask Web Framework  
